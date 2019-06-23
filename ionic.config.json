@@ -1,5 +1,7 @@
 {
   "name": "Ionic4Timer",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
